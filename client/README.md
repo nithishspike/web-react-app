@@ -1,4 +1,11 @@
 # React + Vite
+To run the client front end
+cd client
+npm run dev
+
+To run the server 
+cd server
+nodemon index.js
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
